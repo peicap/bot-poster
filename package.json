@@ -1,0 +1,29 @@
+{
+  "name": "bot-poster",
+  "version": "0.0.1",
+  "description": "A bot that uses nightmare.js and cheerio to post on social media websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peicap/bot-poster.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Kristofferson Carillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peicap/bot-poster/issues"
+  },
+  "homepage": "https://github.com/peicap/bot-poster#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "nightmare": "^2.10.0",
+    "nightmarejs": "0.0.1",
+    "typescript": "^2.5.2",
+    "yargs": "^9.0.1"
+  }
+}
